@@ -1,5 +1,5 @@
 # Group-On-Chat-Messenger
-A type of messaging software(or application develped in java net beans) which provides users to interact and share important resources with each other and to form groups for group chatting and to share resources.
+A type of messaging software(developed in java net-beans) which provides users to interact and share important resources with each other and to form groups for group chatting and sharing resources.
 
 Basic features-
 ● Direct messaging:(Single chat)
